@@ -9,7 +9,7 @@ This is a repo of distributed machine learning sorted papers, and it will be upd
 
 ## Distributed Algorithm
 
-* Deep learning with COTS HPC systems: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_algorithm/Deep_learning with_COTS_HPC_systems.pdf)
+* Deep learning with COTS HPC systems: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_algorithm/Deep_learning_with_COTS_HPC_systems.pdf)
 * Large Scale Distributed Deep Networks: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_algorithm/Large_Scale_Distributed_Deep_Networks.pdf)
 * More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_algorithm/More_Effective_Distributed_ML_via_a_Stale_Synchronous_Parallel_Parameter_Server.pdf)
 * Strategies and Principles of Distributed Machine Learning on Big Data: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_algorithm/Strategies_and_Principles_of_Distributed_Machine_Learning_on_Big_Data.pdf)
