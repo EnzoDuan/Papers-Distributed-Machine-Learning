@@ -1,11 +1,13 @@
 # Papers-Distributed-Machine-Learning
 This is a repo of distributed machine learning sorted papers, and it will be updated continually.
 
+## Slides
 
+* Distributed Machine Learning: A Brief Overview : [Sildes]()
 
 ## Edge Computing
 
-
+* Adaptive Federated Learning in Resource Constrained Edge Computing Systems: [Paper]()
 
 ## Distributed Algorithm
 
@@ -19,13 +21,13 @@ This is a repo of distributed machine learning sorted papers, and it will be upd
 * Petuum: A New Platform for Distributed Machine Learning on Big Data: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_system/petuum.pdf)
 * Bosen: Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_system/Bosen.pdf)
 * Project Adam: Building an Efficient and Scalable Deep Learning Training System: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_system/Project_Adam_Building_an_Efficient_and_Scalable_Deep_Learning_Training_System.pdf)
+* Tiresias: A GPU Cluster Manager for Distributed Deep Learning: [Paper]()
 
 ## Distributed Method of Model
 
 * Asymptotically Exact, Embarrassingly Parallel MCMC: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_model/Asymptotically_Exact_Embarrassingly_Parallel_MCMC.pdf)
-
 * LightLDA: Big Topic Models on Modest Computer Clusters: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_model/LightLDA_Big_Topic_Models_on_Modest_Computer_Clusters.pdf)
-
 * SaberLDA: Sparsity-Aware Learning of Topic Models on GPUs: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/perspective_of_model/SaSaberLDA_Sparsity_Aware_Learning_of_Topic_Models_on_GPUs.pdf)
 
-  
+## Application
+
