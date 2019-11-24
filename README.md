@@ -7,6 +7,7 @@ This is a repo of distributed machine learning sorted papers, and it will be upd
 
 ## Edge Computing
 
+* Distributed Machine Learning on Mobile Devices: A Survey: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/edge_computing/DMLM_survey.pdf)
 * Adaptive Federated Learning in Resource Constrained Edge Computing Systems: [Paper](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/edge_computing/Adaptive_Federated-Learning-in-Resource-Constrained-Edge-Computing-Systems.pdf) / [Abstract](https://github.com/EnzoDuan/Papers-Distributed-Machine-Learning/blob/master/edge_computing/abstract-of-infocom18.pdf)
 
 ## Distributed Algorithm
